@@ -1,13 +1,9 @@
 ### Yoo, I'm Qian Li 👋
 
 
-- 🍻 Junior at 🇨🇳 [PKU] Computer Science_
-- ⚡ Go / java
-- 🖋 Writer at [sspai]
-- ✍️ [Blogger]
-- 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
-- 🥋 Boxing / Tai Chi
-- ♟ Chinese Chess / Chess 
+- 🍻 🇨🇳 [NKU] Computer Science Major
+- ⚡ programming language: Go / java
+- 🏃 Table Tennis / Cycling / Basketball /Tennis
 
 
 
