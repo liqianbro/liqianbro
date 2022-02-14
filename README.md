@@ -2,7 +2,7 @@
 
 
 - 🍻 🇨🇳 [NKU] Computer Science Major
-- ⚡ programming language: Go / java
+- ⚡ Programming language: Go / java
 - 🏃 Table Tennis / Cycling / Basketball /Tennis
 
 
