@@ -1,7 +1,7 @@
 ### Yoo, I'm Qian Li 👋
 
 
-- 🍻 Junior at 🇨🇳 [PKU], _BSc in Computer Science_
+- 🍻 Junior at 🇨🇳 [PKU] Computer Science_
 - ⚡ Go / java
 - 🖋 Writer at [sspai]
 - ✍️ [Blogger]
